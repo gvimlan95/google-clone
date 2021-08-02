@@ -48,7 +48,7 @@ function Header() {
 				</form>
 				<Avatar
 					className="ml-auto"
-					url="https://avatars.githubusercontent.com/u/9544447?s=400&u=2e556316bb5fc813a03cfc0b558673415aacb45d&v=4"
+					url="https://media-exp1.licdn.com/dms/image/C4E03AQFFI-HznVozFg/profile-displayphoto-shrink_400_400/0/1516517971367?e=1633564800&v=beta&t=kpF57Dj1t_gaM5kxIca50QdwIXHcUwyg36YnoBHzA-s"
 				/>
 			</div>
 			{/* Header Options */}
