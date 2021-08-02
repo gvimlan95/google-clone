@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
-// import Avatar from '../components/Avatar';
+import Avatar from '../components/Avatar';
 import Footer from '../components/Footer';
 import { useRef } from 'react';
 import { MicrophoneIcon, ViewGridIcon } from '@heroicons/react/solid';
@@ -41,7 +41,7 @@ export default function Home() {
 					{/* Icon */}
 					<ViewGridIcon className="cursor-pointer h-10 w-10 p-2 rounded-full hover:bg-gray-100" />
 					{/* Avatar */}
-					{/* <Avatar url="https://avatars.githubusercontent.com/u/9544447?s=400&u=2e556316bb5fc813a03cfc0b558673415aacb45d&v=4" /> */}
+					<Avatar url="https://avatars.githubusercontent.com/u/9544447?s=400&u=2e556316bb5fc813a03cfc0b558673415aacb45d&v=4" />
 				</div>
 			</header>
 			{/* Body */}
