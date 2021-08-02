@@ -46,10 +46,10 @@ function Header() {
 					/>
 					<button hidden type="submit" onClick={search}></button>
 				</form>
-				<Avatar
+				{/* <Avatar
 					className="ml-auto"
 					url="https://media-exp1.licdn.com/dms/image/C4E03AQFFI-HznVozFg/profile-displayphoto-shrink_400_400/0/1516517971367?e=1633564800&v=beta&t=kpF57Dj1t_gaM5kxIca50QdwIXHcUwyg36YnoBHzA-s"
-				/>
+				/> */}
 			</div>
 			{/* Header Options */}
 			<HeaderOptions />
