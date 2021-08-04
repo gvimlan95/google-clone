@@ -24,3 +24,7 @@ To run the program using netlify.
 
 ![Alt text](/google-clone.png?raw=true)
 ![Alt text](/google-clone-2.png?raw=true)
+
+### 5. Live preview
+
+(https://google-clone-inky-nine.vercel.app/)

@@ -1,4 +1,0 @@
-// API KEY
-export const API_KEY = 'YOUR_GOOGLE_API';
-// CONTEXT KEY
-export const CONTEXT_KEY = 'GOOGLE_CONTEXT';
