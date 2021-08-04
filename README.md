@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Minedmind Movies
 
-## Getting Started
+This project is built with ReactJS, GraphQL and Cassandra.
 
-First, run the development server:
+## To Begin
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 1.Register at Google Developer
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Register an account at (https://developers.google.com/custom-search/v1/introduction?authuser=3) for a free API key.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### 2. Clone this repository and run the following commands
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+`yarn install`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+To install all the yarn packages in this projects.
 
-## Learn More
+`yarn dev`
 
-To learn more about Next.js, take a look at the following resources:
+To run the program using netlify.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 3. Add the GOOGLE API key into an key.js file
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 4. Screenshot
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Alt text](/google-clone.png?raw=true)
+![Alt text](/google-clone-2.png?raw=true)
